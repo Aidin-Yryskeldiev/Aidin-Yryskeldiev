@@ -1,18 +1,19 @@
+
 ![profile](https://github.com/Aidin-Yryskeldiev/Aidin-Yryskeldiev/assets/154668730/222c6ad1-eb88-4e72-920a-7f1ef2070c2d)
 <h1 align="center">Hi 👋, I'm Aidin</h1>
 <h3 align="center">I'm Frontend Developer</h3>
 
-<p align="left">
+<p align="center">
 	<img
 		src="https://komarev.com/ghpvc/?username=aidin-yryskeldiev&label=Profile%20views&color=0e75b6&style=flat"
 		alt="aidin-yryskeldiev" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left"></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"

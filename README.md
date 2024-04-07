@@ -1,8 +1,4 @@
-
-
 Uploading Профиль.mp4…
-
-
 <h1 align="center">Hi 👋, I'm Aidin</h1>
 <h3 align="center">I'm Frontend Developer</h3>
 

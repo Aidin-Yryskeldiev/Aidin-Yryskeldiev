@@ -1,20 +1,3 @@
-		.profile {
-			width: 700px;
-			height: 130px;
-      background-color: black;
-			display: flex;
-			justify-content: center;
-			align-items: center;
-		}
-
-    h1 {
-      font-size: 50px;
-      color: white;
-    }
-	</style>
-		<div class="profile">
-			<h1>𝓐𝓲𝓭𝓲𝓷 𝓨𝓻𝔂𝓼𝓴𝓮𝓵𝓭𝓲𝓮𝓿</h1>
-		</div>
 <h1 align="center">Hi 👋, I'm Aidin</h1>
 <h3 align="center">I'm Frontend Developer</h3>
 

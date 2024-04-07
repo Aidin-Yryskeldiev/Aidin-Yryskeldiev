@@ -1,5 +1,6 @@
 
-![profile](https://github.com/Aidin-Yryskeldiev/Aidin-Yryskeldiev/assets/154668730/222c6ad1-eb88-4e72-920a-7f1ef2070c2d)
+https://github.com/Aidin-Yryskeldiev/Aidin-Yryskeldiev/assets/154668730/2ab5149a-c16f-4a66-a2cd-94c894958447
+Uploading Анимация текста - Google Chrome 2024-04-08 05-05-13.mp4…
 <h1 align="center">Hi 👋, I'm Aidin</h1>
 <h3 align="center">I'm Frontend Developer</h3>
 

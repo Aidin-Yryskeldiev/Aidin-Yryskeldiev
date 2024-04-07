@@ -1,4 +1,4 @@
-http://127.0.0.1:5500/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(35).png
+![Снимок экрана (35)](https://github.com/Aidin-Yryskeldiev/Aidin-Yryskeldiev/assets/154668730/c5984388-71b7-47d2-8c57-0332b3f93d95)
 <h1 align="center">Hi 👋, I'm Aidin</h1>
 <h3 align="center">I'm Frontend Developer</h3>
 

@@ -1,8 +1,3 @@
-
-![profile](ht
-
-https://github.com/Aidin-Yryskeldiev/Aidin-Yryskeldiev/assets/154668730/8a4fd7b1-a0e2-4253-a64d-5253cad8b1b5
-
 tps://github.com/Aidin-Yryskeldiev/Aidin-Yryskeldiev/assets/154668730/222c6ad1-eb88-4e72-920a-7f1ef2070c2d)
 <h1 align="center">Hi 👋, I'm Aidin</h1>
 <h3 align="center">I'm Frontend Developer</h3>

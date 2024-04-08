@@ -1,3 +1,4 @@
+![Screenshot 08 04 2024 15_46_24](https://github.com/Aidin-Yryskeldiev/Aidin-Yryskeldiev/assets/154668730/75d11786-8e0e-4ad5-a48a-5411a75723db)
 ![profile](https://github.com/Aidin-Yryskeldiev/Aidin-Yryskeldiev/assets/154668730/222c6ad1-eb88-4e72-920a-7f1ef2070c2d)
 <h1 align="center">Hi 👋, I'm Aidin</h1>
 <h3 align="center">I'm Frontend Developer</h3>

@@ -1,4 +1,6 @@
-![Screenshot 08 04 2024 15_46_24](https://github.com/Aidin-Yryskeldiev/Aidin-Yryskeldiev/assets/154668730/75d11786-8e0e-4ad5-a48a-5411a75723db)
+[InternetShortcut]
+URL=https://www.google.com/search?q=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE&oq=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEJMzkzMGowajE1qAIIsAIB&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:293c8a3a,vid:e9qI48ejEwQ,st:0
+
 ![profile](https://github.com/Aidin-Yryskeldiev/Aidin-Yryskeldiev/assets/154668730/222c6ad1-eb88-4e72-920a-7f1ef2070c2d)
 <h1 align="center">Hi 👋, I'm Aidin</h1>
 <h3 align="center">I'm Frontend Developer</h3>

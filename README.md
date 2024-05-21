@@ -1,4 +1,3 @@
-
 ![profile](https://github.com/Aidin-Yryskeldiev/Aidin-Yryskeldiev/assets/154668730/222c6ad1-eb88-4e72-920a-7f1ef2070c2d)
 <h1 align="center">Hi 👋, I'm Aidin</h1>
 <h3 align="center">I'm Frontend Developer</h3>
@@ -88,3 +87,17 @@
 		src="https://github-readme-streak-stats.herokuapp.com/?user=aidin-yryskeldiev&"
 		alt="aidin-yryskeldiev" />
 </p>
+
+<source
+	media="(prefers-color-scheme: dark)"
+	srcset="
+		https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+	" />
+<source
+	media="(prefers-color-scheme: light)"
+	srcset="
+		https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+	" />
+<img
+	alt="github contribution grid snake animation"
+	src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />

@@ -1,34 +1,90 @@
-# Steps represent a sequence of tasks that will be executed as part of the job
-steps:
 
-# Checks repo under $GITHUB_WORKSHOP, so your job can access it
-  - uses: actions/checkout@v2
+![profile](https://github.com/Aidin-Yryskeldiev/Aidin-Yryskeldiev/assets/154668730/222c6ad1-eb88-4e72-920a-7f1ef2070c2d)
+<h1 align="center">Hi 👋, I'm Aidin</h1>
+<h3 align="center">I'm Frontend Developer</h3>
 
-# Generates the snake  
-  - uses: Platane/snk@master
-    id: snake-gif
-    with:
-      github_user_name: mishmanners
-      # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-      gif_out_path: dist/github-contribution-grid-snake.gif
-      svg_out_path: dist/github-contribution-grid-snake.svg
+<p align="left">
+	<img
+		src="https://komarev.com/ghpvc/?username=aidin-yryskeldiev&label=Profile%20views&color=0e75b6&style=flat"
+		alt="aidin-yryskeldiev" />
+</p>
 
- # show the status of the build. Makes it easier for debugging (if there's any issues).
-  - run: git status
+<h3 align="left">Connect with me:</h3>
+<p align="left"></p>
 
-  # Push the changes
-  - name: Push changes
-    uses: ad-m/github-push-action@master
-    with:
-      github_token: ${{ secrets.GITHUB_TOKEN }}
-      branch: master
-      force: true
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+			alt="html5"
+			width="40"
+			height="40" />
+	</a>
+	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+			alt="css3"
+			width="40"
+			height="40" />
+	</a>
+	<a
+		href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+		target="_blank"
+		rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+			alt="javascript"
+			width="40"
+			height="40" />
+	</a>
+	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+			alt="react"
+			width="40"
+			height="40" />
+	</a>
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+			alt="typescript"
+			width="40"
+			height="40" />
+	</a>
+	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+			alt="nodejs"
+			width="40"
+			height="40" />
+	</a>
+	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+			alt="figma"
+			width="40"
+			height="40" />
+	</a>
+</p>
 
-  - uses: crazy-max/ghaction-github-pages@v2.1.3
-    with:
-      # the output branch we mentioned above
-      target_branch: output
-      build_dir: dist
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    
+<p>
+	<img
+		align="left"
+		src="https://github-readme-stats.vercel.app/api/top-langs?username=aidin-yryskeldiev&show_icons=true&locale=en&layout=compact"
+		alt="aidin-yryskeldiev" />
+</p>
+
+<p>
+	&nbsp;<img
+		align="center"
+		src="https://github-readme-stats.vercel.app/api?username=aidin-yryskeldiev&show_icons=true&locale=en"
+		alt="aidin-yryskeldiev" />
+</p>
+
+<p>
+	<img
+		align="center"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=aidin-yryskeldiev&"
+		alt="aidin-yryskeldiev" />
+</p>

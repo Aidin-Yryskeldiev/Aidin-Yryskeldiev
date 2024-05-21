@@ -51,10 +51,17 @@
 			width="40"
 			height="40" />
 	</a>
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-			alt="nodejs"
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+			alt="sass"
+			width="40"
+			height="40" />
+	</a>
+	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+			alt="tailwind"
 			width="40"
 			height="40" />
 	</a>
@@ -66,28 +73,6 @@
 			height="40" />
 	</a>
 </p>
-<span>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-	<img
-		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-		alt="sass"
-		width="40"
-		height="40" />
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-	<img
-		src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-		alt="tailwind"
-		width="40"
-		height="40" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-	<img
-		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-		alt="typescript"
-		width="40"
-		height="40" />
-</a>
 
 <p>
 	<img
@@ -109,18 +94,3 @@
 		src="https://github-readme-streak-stats.herokuapp.com/?user=aidin-yryskeldiev&"
 		alt="aidin-yryskeldiev" />
 </p>
-
-<source
-	media="(prefers-color-scheme: dark)"
-	srcset="
-		https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
-	" />
-<source
-	media="(prefers-color-scheme: light)"
-	srcset="
-		https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
-	" />
-<img
-	alt="github contribution grid snake animation"
-	src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</span>

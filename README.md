@@ -66,6 +66,7 @@
 			height="40" />
 	</a>
 </p>
+<span>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
 	<img
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -122,3 +123,4 @@
 <img
 	alt="github contribution grid snake animation"
 	src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</span>

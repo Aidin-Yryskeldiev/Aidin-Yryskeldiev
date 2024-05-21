@@ -1,7 +1,8 @@
-
 ![profile](https://github.com/Aidin-Yryskeldiev/Aidin-Yryskeldiev/assets/154668730/222c6ad1-eb88-4e72-920a-7f1ef2070c2d)
-<h1 align="center">Hi 👋, I'm Aidin</h1>
-<h3 align="center">I'm Frontend Developer</h3>
+<h1 align="center">
+	<img
+		src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Frontend-Developer;" />
+</h1>
 
 <p align="left">
 	<img
@@ -38,13 +39,6 @@
 			width="40"
 			height="40" />
 	</a>
-	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-			alt="react"
-			width="40"
-			height="40" />
-	</a>
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -52,10 +46,24 @@
 			width="40"
 			height="40" />
 	</a>
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-			alt="nodejs"
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+			alt="react"
+			width="40"
+			height="40" />
+	</a>
+	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+			alt="sass"
+			width="40"
+			height="40" />
+	</a>
+	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+			alt="tailwind"
 			width="40"
 			height="40" />
 	</a>
@@ -88,3 +96,18 @@
 		src="https://github-readme-streak-stats.herokuapp.com/?user=aidin-yryskeldiev&"
 		alt="aidin-yryskeldiev" />
 </p>
+
+<!-- !!!!!!!!!! -->
+<hr />
+<div align="center">
+	<h2 style="font-family: Arial, Helvetica, sans-serif">
+		🐍 My Contributions 🐍
+	</h2>
+	<img
+		alt="snake eating my contributions"
+		src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+<!-- !!!!!!!!!!!!!!!!1 -->
+
+]
